@@ -1,6 +1,4 @@
 # My Reservation 
-<!-- - Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw -->
-- Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
 <!-- - Live Url: https://traintickets.herokuapp.com <br>  -->
 <!-- - Login Credentials: admin/admin -->
 
@@ -177,7 +175,7 @@ Step 6: Check Running The Site At  <a Href="Http://localhost:8083/trainbook/">ht
 
 Step 7: Default Username And Password For Admin Is "admin@demo.com" And "admin"
 
-Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
+Step 8: Default Username And Password For User Is "Rohan@demo.com" And "Rohan"
 
 
 
@@ -219,7 +217,3 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 13. Add Trains By Admin
 <img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
 
-
-#### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
